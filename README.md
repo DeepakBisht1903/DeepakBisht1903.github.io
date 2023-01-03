@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Bisht</h1>
 
 
-- 🌱 I’m currently learning Data Science and other programming languages
+- 🌱 I’m currently learning Data Science and other programming languages.
 
 - 📫 How to reach me **iamdeepak1911@gmail.com**
 
